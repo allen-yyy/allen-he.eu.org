@@ -98,10 +98,10 @@ proxies:
     skip-cert-verify: true
     servername: 65f11be5-v2ray.allen-he.eu.org
     network: ws
-    ws-path: /daochen6
+    ws-path: /65f11be5
   - name: "Allen自建2"
     type: vmess
-    server: allen-vpn.herokuapp.com
+    server: nihadfcnuyhaxihiuduygufxxaxds.herokuapp.com
     port: 443
     uuid: 65f11be5-ac71-4f0c-874b-d93c610c66ef
     alterId: 0
@@ -109,9 +109,9 @@ proxies:
     udp: true
     tls: true
     #skip-cert-verify: true
-    servername: allen-vpn.herokuapp.com
+    servername: nihadfcnuyhaxihiuduygufxxaxds.herokuapp.com
     network: ws
-    ws-path: /daochen6
+    ws-path: /65f11be5
 proxy-groups:
   - name: 🚀 选择节点
     type: select
